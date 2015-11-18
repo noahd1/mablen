@@ -1,0 +1,7 @@
+CONTENT_DIR: "<some-folder>"
+LAST_IMPORT_FILE: "last_import"
+GOOGLE_ANALYTICS_KEY: "<some-key>"
+CODECLIMATE_REPO_TOKEN: "<some-token>"
+
+test:
+  CONTENT_DIR: "<some-folder>"
